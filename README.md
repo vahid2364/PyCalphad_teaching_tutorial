@@ -1,4 +1,4 @@
 # PyCalphad Tutorial
-PyCalphad tutorial I for teaching how to interpret binary and ternary phase diagrams
+PyCalphad tutorial I and II for teaching how to interpret binary and ternary phase diagrams
 
-This tutorial is used for Texas A&M University MSEN210, thermodynamics of Materials course.
+This tutorial is used during Texas A&M University thermodynamics of Materials course (MSEN210).
